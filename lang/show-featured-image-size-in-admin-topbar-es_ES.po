@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Show Featured Image Size in Admin TopBar\n"
+"POT-Creation-Date: 2016-12-17 17:37+0100\n"
+"PO-Revision-Date: 2017-08-02 18:53+0200\n"
+"Language-Team: Ramon <marketing@apasionados.es>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: sfisiat.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: Ramon <marketing@apasionados.es>\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: sfisiat.php:35
+msgid "Settings"
+msgstr "Ajustes"
+
+#: sfisiat.php:35
+msgid "Support"
+msgstr "Soporte"
+
+#: sfisiat.php:45 sfisiat.php:51
+msgid "Featured image size"
+msgstr "Tamaño imagen destacada"
+
+#: sfisiat.php:51
+msgid "not set"
+msgstr "no definido"
+
+#: sfisiat.php:87
+msgid ""
+"This plugin displays the image size for the featured image in the admin top "
+"bar. We find this very handy, because you don't have to look up the default "
+"size of the featured image each time you publish a post."
+msgstr ""
+"Este plugin muestra el tamaño de la imagen destacada estándar en la barra de "
+"administración. Pensamos que es muy útil porque cada vez que se publique un "
+"post no hay que buscar el tamaño de la imagen destacada."
+
+#: sfisiat.php:93
+msgid "Set up Featured Image Size:"
+msgstr "Introduce tamaño imagen destacada:"
+
+#: sfisiat.php:96
+msgid ""
+"Please set up featured image size. For example \"1200x600\".<br />Please "
+"note that there is a limit of 20 caracters. No HTML allowed."
+msgstr ""
+"Por favor introduce el tamaño de imagen destacadas. Por ejemplo \"1200x600\"."
+"<br>Ten en cuenta que hay un límite de 20 caracteres. No se permite HTML."
+
+#: sfisiat.php:102
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: sfisiat.php:108
+msgid "Do you like this Plugin?"
+msgstr "¿Te gusta el plugin?"
+
+#: sfisiat.php:110
+msgid "We also need volunteers to translate that plugin into more languages."
+msgstr "Necesitamos voluntarios para traducir el plugin a otros idiomas."
+
+#: sfisiat.php:111
+msgid "If you wish to help then contact us using our"
+msgstr "Si quieres ayudarnos en la traducción, usa nuestro"
+
+#: sfisiat.php:111
+msgid "contact form"
+msgstr "formulario de contacto"
+
+#: sfisiat.php:111
+msgid "or reach us on Twitter:"
+msgstr "o contáctanos por Twitter:"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin displays the image size for the featured image size in the admin "
+"top bar."
+msgstr ""
+"Este plugin muestra el tamaño de la imagen destacada estándar en la barra de "
+"administración."
